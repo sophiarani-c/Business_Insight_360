@@ -68,8 +68,7 @@ Based on the mock ups received as requirement, the team will start designing the
 
 # Home View
 Home view
-In Home view, all the views button will be available. User will land on specific view page by clicking the button
-![image](https://github.com/sophiarani-c/Business_Insight_360/assets/149110280/a761db86-d83b-40ac-a6a8-f4f0d50fa2b3)
+In Home view, all the views button will be available. User will land on specific view page by clicking the button![image](https://github.com/sophiarani-c/Business_Insight_360/assets/149110280/a761db86-d83b-40ac-a6a8-f4f0d50fa2b3)
 
 # Finance View
 <img width="751" alt="image" src="https://github.com/sophiarani-c/Business_Insight_360/assets/149110280/55c9f88d-4f45-4156-b4eb-4becae6852a4">
