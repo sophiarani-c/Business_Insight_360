@@ -1,7 +1,7 @@
 # Business_Insight_360
 
 # Project Overview
-AtliQ Hardware is growing rapidly in the recent years, and they have decided to implement the data analytics using PowerBi in their company for the first time to surpass their competitors in the market and to make data driven decisions. This project is hoped to give answers to the questions of stakeholder in terms all the aspects like finance, sales, marketing and supply chain.
+"Business Insight 360" is a comprehensive Power BI report that offers a holistic understanding of AtliQe Software's operations. The report provides a perspective through specialized views focusing on financial health, sales analysis, marketing effectiveness, and supply chain efficiency.
 
 I worked on this project as a part of course work
 
@@ -71,18 +71,25 @@ Home view
 In Home view, all the views button will be available. User will land on specific view page by clicking the button![image](https://github.com/sophiarani-c/Business_Insight_360/assets/149110280/a761db86-d83b-40ac-a6a8-f4f0d50fa2b3)
 
 # Finance View
+Finance Dashboard: The Power BI dashboard displays critical financial metrics like net sales and gross margin, aiding financial analysis. It also benchmarks various costs for informed decision-making.
+
 <img width="751" alt="image" src="https://github.com/sophiarani-c/Business_Insight_360/assets/149110280/55c9f88d-4f45-4156-b4eb-4becae6852a4">
 
 # Sales View
+Sales Dashboard: A comprehensive overview of customer and product performance, net sales, and cost of goods sold helps optimize sales strategies and resource allocation.
+
 <img width="749" alt="image" src="https://github.com/sophiarani-c/Business_Insight_360/assets/149110280/601906bf-a0fc-42dc-8cdd-f1fb3a0618f3">
 
 # Marketing View
+Marketing Dashboard: This dashboard highlights product performance across regions and customer segments, enabling data-driven marketing strategy refinement while monitoring expenses for efficiency.
 <img width="739" alt="image" src="https://github.com/sophiarani-c/Business_Insight_360/assets/149110280/62960049-af71-460e-8c30-c904713b8b91">
 
 # Supply chain View
+Supply Chain Dashboard: Focusing on supply chain efficiency, this dashboard tracks forecasting errors and net errors, facilitating targeted supply chain improvements to enhance operations.
 <img width="748" alt="image" src="https://github.com/sophiarani-c/Business_Insight_360/assets/149110280/83e037d0-e6f6-4698-9df3-9d06d2383b69">
 
 # Executive View
+Executive Dashboard: The top-level view dashboard provides insights into net sales and revenue forecasts, and spotlights the top 5 customers and products by revenue, aiding executive-level decision-making and strategy formulation.
 <img width="739" alt="image" src="https://github.com/sophiarani-c/Business_Insight_360/assets/149110280/9adf1f5e-c829-4601-a294-3e9f906f67f6">
 
 # Support
