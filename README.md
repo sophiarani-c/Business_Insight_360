@@ -121,5 +121,3 @@ Top 5 products by revenue:
 
 You can find the full report file here : https://app.powerbi.com/reportEmbed?reportId=778cd5c3-02e6-4f65-a951-9e3ad3d66278&autoAuth=true&ctid=d560c149-16a2-4de6-92ce-88930baf6398
 
-# Project Outcome
-By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
