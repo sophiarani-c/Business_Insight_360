@@ -3,8 +3,6 @@
 # Project Overview
 "Business Insight 360" is a comprehensive Power BI report that offers a holistic understanding of AtliQe Software's operations. The report provides a perspective through specialized views focusing on financial health, sales analysis, marketing effectiveness, and supply chain efficiency.
 
-I worked on this project as a part of course work
-
 Live Report https://app.powerbi.com/reportEmbed?reportId=778cd5c3-02e6-4f65-a951-9e3ad3d66278&autoAuth=true&ctid=d560c149-16a2-4de6-92ce-88930baf6398
 
 # Tech Stacks
@@ -14,25 +12,7 @@ Live Report https://app.powerbi.com/reportEmbed?reportId=778cd5c3-02e6-4f65-a951
 * DAX language
 * DAX studio (for optimizing the report)
 * Project charter file
-# PowerBI Techniques Learnt
-* What are all the questions should be asked before staring the project
-* Creating calculated columns
-* Creating measure using DAX language
-* Data modeling
-* Using Bookmarks to switch between two visuals
-* Page navigation with buttons
-* Using divide function to prevent zero division errors
-* Creating date table using m language
-* Dynamic titles based on the applied filters
-* Using KPI indicators
-* Conditional formatting the values in visuals using icons or background color
-* Data validation techniques
-* PowerBi services
-* Publishing reports to PowerBi services
-* Setting up personal gateway to set up the auto refresh of data
-# GitHub
-* Uploading Large size files using GitHub LFS
-* Tracking the particular type of file extensions for LFS
+
 # Business Related Terms
 * Gross price
 * Pre-invoice deductions
@@ -48,23 +28,10 @@ Live Report https://app.powerbi.com/reportEmbed?reportId=778cd5c3-02e6-4f65-a951
 * Retailer
 * Distributors
 * Consumer
-# Dataset Understanding
-Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
 
-* Dimension table : It will have the static data like details of customer and products
-
-* Fact table : It will have the data about the transactions
 
 # Data Model
-* Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
-* Poor data modeling affects the over all performance of the report.
-* Following Good practices of data modeling is must. 
-* In this project, we have followed Snowfall data modeling method.
-
 <img width="943" alt="image" src="https://github.com/sophiarani-c/Business_Insight_360/assets/149110280/4708a635-3c19-4482-87aa-50493bfffc3a">
-
-# Dashboard Designing
-Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
 
 # Home View
 Home view
